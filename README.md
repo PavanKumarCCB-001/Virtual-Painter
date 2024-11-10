@@ -1,7 +1,7 @@
 
 # Virtual-Painter
 
-This is the Desktop Application that I've Developed using Python, that allows Users to Draw on Virtual Canvas by simply moving their Hand.
+This is the Console Application that I've Developed using Python, that allows Users to Draw on Virtual Canvas by simply moving their Hand.
 
 This project leverages libraries such as OpenCV for hand detection and tracking, providing an intuitive and interactive way for users to create digital art without the need for traditional input devices like a mouse or stylus.
 
